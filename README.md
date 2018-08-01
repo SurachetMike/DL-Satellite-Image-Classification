@@ -1,1 +1,1 @@
-# DL-Satellite-Image-Classification
+# Satellite Image Classification using DL
