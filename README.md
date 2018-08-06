@@ -8,13 +8,16 @@ Land use and land cover change are important for the management of areas, especi
 
      
 ## Goal setting
+
 Long term
 -	To develop the land use and land cover classification system that can be used online and available for satellite imagery from other satellites.
+
 Short term
 -	To obtain a more accurate land use classification of the Phuket Province, Thailand
 -	To implement a couple of DL-based RS image classification and evaluate them.
 
 ## References
+
 1. Castelluccio, M., Poggi, G., Sansone, C., and Verdoliva, L. (2015). Land use classification in remote sensing images by convolutional neural networks, ArXiv Preprint arXiv:1508.00092.
 2. Sharma, A., Liu, X., Yang, X., and Shi, D. (2017). A patch-based convolutional neural network for remote sensing image classification. Neural Networks,95, 19-28.
 3. Romero, A., Gatta, C., and Camps-Valls, G. (2016). Unsupervised deep feature extraction for remote sensing image classification. IEEE Transactions on Geoscience and Remote Sensing, 54(3), 1349–1362.
