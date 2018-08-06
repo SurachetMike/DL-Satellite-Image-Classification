@@ -1,1 +1,1 @@
-# Satellite Image Classification using DL
+# Satellite Image Classification using Deep Neural Network
