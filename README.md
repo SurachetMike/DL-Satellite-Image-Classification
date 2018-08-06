@@ -16,6 +16,16 @@ Short term
 Long term
 -	To develop the land use and land cover classification system that can be used online and available for satellite imagery from other satellites.
 
+## Scope of Project
+
+To use remote sensing data (satellite image): 
+-     Landsat 8 OLI satellite image on 2016 (15/02/2016).
+
+The Land use/Land cover classes, including:
+-     Build-up (urban, road, building), Forest, Water, Mangrove and Others (In addition to the above)
+
+To use DL for remote sensing data classification.
+
 ## References
 
 1. Castelluccio, M., Poggi, G., Sansone, C., and Verdoliva, L. (2015). Land use classification in remote sensing images by convolutional neural networks, ArXiv Preprint arXiv:1508.00092.
