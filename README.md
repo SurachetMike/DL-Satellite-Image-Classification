@@ -20,3 +20,4 @@ Short term
 3. Romero, A., Gatta, C., and Camps-Valls, G. (2016). Unsupervised deep feature extraction for remote sensing image classification. IEEE Transactions on Geoscience and Remote Sensing, 54(3), 1349–1362.
 4. Wang, S., Quan, D., Liang, X., Ning, M., Guo, Y., and Jiao, L. (2018). A deep learning framework for remote sensing image registration. ISPRS Journal of Photogrammetry and Remote Sensing.
 5. Scott, G.J., England, M.R., Starms, W.A., Marcum, R.A., and Davis, C.H. (2017). Training deep convolutional neural networks for land-cover classification of highresolution imagery. IEEE Geosci. Rem. Sens. Lett. 14 (4), 549–553. https://doi.org/10.1109/LGRS.2017.2657778.
+6. https://github.com/zia207/Deep-Neural-Network-with-keras-Python-Satellite-Image-Classification
