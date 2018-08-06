@@ -4,17 +4,17 @@ Land use and land cover change are important for the management of areas, especi
 
    Land use and Land cover classifications are constantly developed based on spectral and spatial properties of the pixels or object-based approaches (Pesaresi and Gerhardinger, 2011; Rizvi and Mohan, 2011; Castelluccio, et al., 2015). This task becomes incrementally more difficult as the level of abstraction increases because land covers characterizing a given class may present a large variability and objects may appear at different scales and orientations (Castelluccio, et al., 2015). Castelluccio, et al., (2015) has investigated image classification and retrieval of Remotely Sensing imagery (RS). In particular, when RS data are classified with neural networks, the architecture of the network is the most essential. Several past studies have proposed different neural network application to RS data: land use classification by CaffeNet and GoogLeNet architectures (Castelluccio, et al., 2015), classification of Hyperspectral image (one type of RS data) using Restricted Boltzmann machines (RBMs)—are probabilistic graphical models that can be interpreted as stochastic neural networks— (Midhun, et al., 2014), land cover classification using patch-based recurrent neural network (PB-RNN) system (Sharma, et al., 2018) 
       
-   This project also focuses on the classification of land use with RS images. This time, I will not treat these images as a series of time-sequential images, which is also an interesting topic, but use these images as independent. Thus, this project is one of the image classifications, and DL is to be employed and evaluate which method is more suitable particularly for RS data of Phuket, Thailand.
+   This project also focuses on the classification of land use with RS images (Landsat 8 OLI satellite image). This time, I will not treat these images as a series of time-sequential images, which is also an interesting topic, but use these images as independent. Thus, this project is one of the image classifications, and DL is to be employed and evaluate which method is more suitable particularly for RS data of Phuket, Thailand.
 
      
 ## Goal setting
 
-Long term
--	To develop the land use and land cover classification system that can be used online and available for satellite imagery from other satellites.
-
 Short term
 -	To obtain a more accurate land use classification of the Phuket Province, Thailand
 -	To implement a couple of DL-based RS image classification and evaluate them.
+
+Long term
+-	To develop the land use and land cover classification system that can be used online and available for satellite imagery from other satellites.
 
 ## References
 
