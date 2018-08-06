@@ -19,10 +19,10 @@ Long term
 ## Scope of Project
 
 To use remote sensing data (satellite image): 
--     Landsat 8 OLI satellite image on 2016 (15/02/2016).
+- Landsat 8 OLI satellite image on 2016 (15/02/2016).
 
 The Land use/Land cover classes, including:
--     Build-up (urban, road, building), Forest, Water, Mangrove and Others (In addition to the above)
+- Build-up (urban, road, building), Forest, Water, Mangrove and Others (In addition to the above)
 
 To use DL for remote sensing data classification.
 
